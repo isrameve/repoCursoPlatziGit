@@ -1,0 +1,15 @@
+/workspaces/repoCursoPlatziGit/probando/bin/Debug/net8.0/probando
+/workspaces/repoCursoPlatziGit/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/repoCursoPlatziGit/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/repoCursoPlatziGit/probando/bin/Debug/net8.0/probando.dll
+/workspaces/repoCursoPlatziGit/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.dll
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/repoCursoPlatziGit/probando/obj/Debug/net8.0/ref/probando.dll
